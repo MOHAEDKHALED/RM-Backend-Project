@@ -1,0 +1,6 @@
+@RadwaMintaWebAPI_HostAddress = http://localhost:5124
+
+GET {{RadwaMintaWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

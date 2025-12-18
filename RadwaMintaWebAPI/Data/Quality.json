@@ -1,0 +1,92 @@
+[
+  {
+    "Title": "Reception",
+    "TitleAr": "الاستلام",
+    "PictureUrl": "Images/Quality/Reception.jpg",
+    "Content": "Only approved suppliers by the Quality Control (QC) Department are allowed to provide raw materials. Primary inspection takes place immediately upon arrival, as defined in our QC standard procedure, to decide on material acceptance or rejection. Accepted materials are labeled with a Lot Number and detailed records (farm name/code, entry date, specifications) are logged. Proof of origin (farm bill) must accompany the material and is kept on file.",
+    "ContentAr": "يُسمح فقط للموردين المعتمدين من قبل قسم مراقبة الجودة (QC) بتوريد المواد الخام. يتم الفحص الأولي فور الوصول، كما هو محدد في إجراءات مراقبة الجودة القياسية لدينا، لاتخاذ قرار بشأن قبول المواد أو رفضها. تُوسم المواد المقبولة برقم دفعة وتُسجل سجلات تفصيلية (اسم/رمز المزرعة، تاريخ الدخول، المواصفات). يجب أن يرفق إثبات المنشأ (فاتورة المزرعة) مع المادة ويحتفظ به في الملف."
+
+
+  },
+  {
+    "Title": "Sun or machine drying",
+    "TitleAr": "التجفيف الشمسي أو الآلي",
+    "PictureUrl": "Images/Quality/Sun or machine drying.jpg",
+    "Content": "Fresh herbs undergo sun drying under shade. Machine drying facilities are cleaned daily and maintained to prevent contamination. Crucially, no simultaneous operations on two different items are allowed to completely eliminate cross-contamination risk.",
+    "ContentAr": "تخضع الأعشاب الطازجة للتجفيف الشمسي تحت الظل. تُنظف منشآت التجفيف الآلي يوميًا وتُصان لمنع التلوث. الأهم من ذلك، لا يُسمح بإجراء عمليتين مختلفتين في وقت واحد للقضاء تمامًا على خطر التلوث المتبادل."
+
+
+  },
+  {
+    "Title": "Processing unit",
+    "TitleAr": "وحدة المعالجة",
+    "PictureUrl": "Images/Quality/Processing unit .jpg",
+    "Content": "The processing unit must be cleaned according to our strict cleaning and sanitation procedures before starting any processing activities, ensuring a hygienic start for every batch.",
+    "ContentAr": "يجب تنظيف وحدة المعالجة وفقًا لإجراءات التنظيف والتعقيم الصارمة لدينا قبل بدء أي أنشطة معالجة، مما يضمن بداية صحية لكل دفعة."
+
+
+  },
+  {
+    "Title": "Sorting and grading",
+    "TitleAr": "الفرز والتصنيف",
+    "PictureUrl": "Images/Quality/Sorting and grading.jpg",
+    "Content": "Sorting and grading are meticulously performed, primarily manually, supplemented by sieving where necessary. This ensures uniformity of the batch before final processing.",
+    "ContentAr": "يتم الفرز والتصنيف بدقة، يدويًا بشكل أساسي، ويُستكمل بالغ,ربلةعند,الضرورة.وهذا, يضمن تجانس,الدفعةقبل,المعالجةالنهائية"
+
+
+  },
+  {
+    "Title": "Checked Machine Operation",
+    "TitleAr": "فحص تشغيل الآلة",
+    "PictureUrl": "Images/Quality/Checked Machine Operation.jpg",
+    "Content": "Crushing (for seeds or TBC) or cutting (e.g., lemongrass) is only executed after verifying the machine's cleanliness and suitability for the specific material, preventing residual contamination.",
+    "ContentAr": "يتم الطحن للبذور أو TBC أو التقطيع (مثل عشب الليمون) فقط بعد التحقق من نظافة الآلة وملاءمتها للمادة المحددة، مما يمنع التلوث المتبقي."
+
+
+  },
+  {
+    "Title": "Metal Detection and Lab Analysis",
+    "TitleAr": "كشف المعادن والتحليل المخبري",
+    "PictureUrl": "Images/Quality/Metal Detection and Lab Analysis.jpg",
+    "Content": " All products are subjected to a metal-detection test to ensure they do not include any ferrous or non-ferrous metals. Additionally, a sample is sent to a relevant external lab to verify that no contamination occurred during the internal processing phase.",
+    "ContentAr": "تخضع جميع المنتجات لاختبار كشف المعادن للتأكد من خلوها من أي معادن حديدية أو غير حديدية. بالإضافة إلى ذلك، تُرسل عينة إلى مختبر خارجي متخصص للتحقق من عدم حدوث أي تلوث خلال مرحلة المعالجة الداخلية."
+
+
+  },
+  {
+    "Title": "Manual Packing, Weighing, and Labeling",
+    "TitleAr": "التعبئة اليدوية، الوزن، ووضع العلامات",
+    "PictureUrl": "Images/Quality/Manual Packing, Weighing, and Labeling.jpg",
+    "Content": "Packing, weighing, and labeling processes are performed manually. This ensures precision in final weight and adherence to the specific packaging standards for each product type.",
+    "ContentAr": "تُنفذ عمليات التعبئة والوزن ووضع العلامات يدويًا. وهذا يضمن الدقة في الوزن النهائي والالتزام بمعايير التعبئة المحددة لكل نوع من المنتجات."
+
+
+  },
+  {
+    "Title": "Reference Sample Collection and Retention",
+    "TitleAr": "جمع وحفظ عينات مرجعية",
+    "PictureUrl": "Images/Quality/Reference Sample Collection and Retention.jpg",
+    "Content": "Reference samples are collected by the QC Department to perform final quality tests and analysis as described in the standard procedure. A crucial part of these samples is kept at the company as a reference sample for the product's recommended shelf life (up to 2 years).",
+    "ContentAr": "يجمع قسم مراقبة الجودة عينات مرجعية لإجراء اختبارات وتحليلات الجودة النهائية كما هو موضح في الإجراء القياسي. ويُحتفظ بجزء حيوي من هذه العينات في الشركة كعينة مرجعية لفترة صلاحية المنتج الموصى بها حتى سنتين)."
+
+
+  },
+  {
+    "Title": "Final Storage Pending QC Clearance",
+    "TitleAr": "التخزين النهائي بانتظار موافقة مراقبة الجودة",
+    "PictureUrl": "Images/Quality/Final Storage Pending QC Clearance.jpg",
+    "Content": "Final products are stored in the company's designated final-product stores. They remain here until the Quality Control Department issues final clearance for shipping, confirming the batch meets all specified standards.",
+    "ContentAr": "تُخزن المنتجات النهائية في مخازن المنتجات النهائية المخصصة للشركة. وتبقى هنا حتى يصدر قسم مراقبة الجودة موافقة الشحن النهائية، مؤكدًا أن الدفعة تلبي جميع المعايير المحددة."
+
+
+  },
+  {
+    "Title": "Comprehensive Record Keeping (Traceability)",
+    "TitleAr": "(حفظ السجلات الشامل (التتبع",
+    "PictureUrl": "Images/Quality/Comprehensive Record Keeping (Traceability).jpg",
+    "Content": "All preceding operations, including the farm bill, processing records, and analysis results, are systematically filed and saved. This facilitates a swift and complete end-to-end traceability process for any shipped item.",
+    "ContentAr": "تُحفظ وتُسجل جميع العمليات السابقة، بما في ذلك فاتورة المزرعة وسجلات المعالجة ونتائج التحليل، بشكل منهجي. وهذا يسهل عملية تتبع سريعة وكاملة من البداية إلى النهاية لأي سلعة مشحونة."
+
+  }
+
+]

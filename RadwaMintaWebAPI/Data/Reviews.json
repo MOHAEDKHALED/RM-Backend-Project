@@ -1,0 +1,80 @@
+[
+  {
+    "FirstName": "Marco",
+    "FirstNameAr": "ماركو",
+    "LastName": "Rossi",
+    "LastNameAr": "روسي",
+    "JobTitle": "Purchasing and Production Manager Russia",
+    "JobTitleAr": "مدير المشتريات وانتاج الدمينه روسيا",
+    "Email": "Marco.Rossi@gmail.com",
+    "Description": "We rely on Radwaminta for our Peppermint supply due because of their unwavering consistency in humidity levels, batch after batch. This is critical for our production processes. They are a long-term partner committed to quality.",
+    "DescriptionAr": "نعتمد على رضوامينتا لتوريد النعناع الخاص بنا نظرًا لثباتهم الذي لا يتزعزع في مستويات الرطوبة، دفعة بعد دفعة. وهذا أمر بالغ الأهمية لعمليات الإنتاج لدينا. إنهم شريك طويل الأمد ملتزم بالجودة.",
+    "Rating": 5,
+    "ReviewDate": "2023-10-26T10:00:00Z"
+  },
+  {
+    "FirstName": "Khaled",
+    "FirstNameAr": "خالد",
+    "LastName": "Mansour",
+    "LastNameAr": "منصور",
+    "JobTitle": "Head of Quality Assurance, U.S. Food Corporation",
+    "JobTitleAr": "رئيس ضمان الجودة، شركة أغذية أمريكية",
+    "Email": "Khaled.Mansour@gmail.com",
+    "Description": "Radwaminta's ability to handle high export volumes and strictly meet tight shipping deadlines to East Asia has been exemplary. Reliability in logistics is their greatest asset in this volatile market.",
+    "DescriptionAr": "لقد كانت قدرة رضوامينتا على التعامل مع أحجام التصدير الكبيرة والالتزام الصارم بالمواعيد النهائية للشحن إلى شرق آسيا مثالية. الموثوقية في الخدمات اللوجستية هي أعظم ما يميزهم في هذا السوق المتقلب.",
+    "Rating": 4,
+    "ReviewDate": "2024-10-26T10:00:00Z"
+  },
+  {
+    "FirstName": "Hany",
+    "FirstNameAr": "هاني",
+    "LastName": "Abdel Gawad",
+    "LastNameAr": "عبد الجواد",
+    "JobTitle": "Operations Manager, Gulf Packaging Firm",
+    "JobTitleAr": "مدير العمليات، شركة تغليف خليجية",
+    "Email": "Hany.Gawad@gmail.com",
+    "Description": "The thoroughness of their documentation and full compliance with our NOP/EEC organic standards makes the auditing process completely seamless. They truly understand the importance of a transparent and documented supply chain. An indispensable partner in quality",
+    "DescriptionAr": "إن دقة وثائقهم وامتثالهم الكامل لمعاييرنا العضوية NOP/EEC يجعل عملية التدقيق سلسة تمامًا. إنهم يفهمون حقًا أهمية سلسلة التوريد الشفافة والموثقة. شريك لا غنى عنه في الجودة.",
+    "Rating": 4,
+    "ReviewDate": "2023-05-26T10:00:00Z"
+  },
+  {
+    "FirstName": "Tariq",
+    "FirstNameAr": "طارق",
+    "LastName": "Al-Sharif",
+    "LastNameAr": "الشريف",
+    "JobTitle": "Head of Procurement, Global Food Ingredients",
+    "JobTitleAr": "رئيس المشتريات، مكونات غذائية عالمية",
+    "Email": "Tariq.Sharif@gmail.com",
+    "Description": "Radwaminta dramatically simplifies our procurement process. They are our reliable single source for high-volume herbs, spices, and carrier oils. Their wide, consistently high-quality product range saves our team countless hours in sourcing and auditing.",
+    "DescriptionAr": "تبسط رضوامينتا عملية الشراء لدينا بشكل كبير. إنهم مصدرنا الوحيد الموثوق به للأعشاب والتوابل والزيوت الحاملة بكميات كبيرة. إن مجموعتهم الواسعة من المنتجات ذات الجودة العالية باستمرار توفر لفريقنا ساعات لا تحصى في التوريد والتدقيق.",
+    "Rating": 5,
+    "ReviewDate": "2025-04-26T10:00:00Z"
+  },
+  {
+    "FirstName": "Omar",
+    "FirstNameAr": "عمر",
+    "LastName": "Al-Mohamady",
+    "LastNameAr": "المحمدي",
+    "JobTitle": "Global Supply Chain Director",
+    "JobTitleAr": "مدير سلسلة الإمداد العالمية",
+    "Email": "Omar.Mohamady@gmail.com",
+    "Description": "It is rare to find a supplier who can maintain the seasonal quality of herbs outside of the harvest period. Their precise storage techniques ensure we receive products with consistent flavor and quality, year-round. This significantly enhances our customer confidence.",
+    "DescriptionAr": "من النادر العثور على مورد يمكنه الحفاظ على جودة الأعشاب الموسمية خارج فترة الحصاد. تضمن تقنيات التخزين الدقيقة لديهم أننا نتلقى منتجات ذات نكهة وجودة ثابتة على مدار العام. وهذا يعزز ثقة عملائنا بشكل كبير.",
+    "Rating": 4,
+    "ReviewDate": "2022-09-26T10:00:00Z"
+  },
+  {
+    "FirstName": "Head of",
+    "FirstNameAr": "رئيس قسم",
+    "LastName": "Sourcing",
+    "LastNameAr": "المصادر",
+    "JobTitle": "International Raw Materials Trader",
+    "JobTitleAr": "تاجر مواد خام دولي",
+    "Email": "Sourcing@gmail.com",
+    "Description": "Throughout our years of partnership, they have not only provided the required quality but have maintained fair, competitive pricing. We trust them as a sole source supplier for several key items, which saves us significant time and cost in procurement.",
+    "DescriptionAr": "طوال سنوات شراكتنا، لم يقدموا الجودة المطلوبة فحسب، بل حافظوا على أسعار عادلة وتنافسية. نثق بهم كمورد وحيد للعديد من العناصر الرئيسية، مما يوفر علينا وقتًا وتكلفة كبيرين في الشراء.",
+    "Rating": 5,
+    "ReviewDate": "2024-02-26T10:00:00Z"
+  }
+]
